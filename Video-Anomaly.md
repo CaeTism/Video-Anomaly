@@ -22,7 +22,7 @@ weights: onedrive `downloading`
 ### Graph Convolutional Label Noise Cleaner:Train a Plug-and-play Action Classifier for Anomaly Detection, CVPR 2019
 在UCF-Crime和ShanghaiTech上的TOP2 AUC  
 GCN大势所趋，结合Weakly Supervised，GCN-based Video-Anomaly detection应该很有搞头[code](https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection)  
-代码有待进一步研究  
+[blog](https://www.cnblogs.com/LeeGoHigh/p/11221587.html)和代码有待进一步研究  
 
 ### Exploring Background-bias for Anomaly Detection in Surveillance Videos, ACM MM 19  
 UCF-Crime上的TOP1 AUC，没有code，Weakly Supervised，[paper](https://sci-hub.pl/10.1145/3343031.3350998)可以研究一下  
