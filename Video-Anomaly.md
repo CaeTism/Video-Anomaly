@@ -3,7 +3,7 @@
 
 ## Real-world Anomaly Detection in Surveillance Videos
 ### UCF-Crime
-UCF-Crime数据集成为了Video-Anomaly任务的一个标志性数据集 'downloading'  
+UCF-Crime数据集成为了Video-Anomaly任务的一个标志性数据集 `downloading`  
 ### MIL
 一个bag中包含多个样本  
 这个bag的label为正：这个bag包含至少一个正样本  
@@ -16,8 +16,8 @@ UCF-Crime数据集成为了Video-Anomaly任务的一个标志性数据集 'downl
 
 ### Future Frame Prediction for Anomaly Detection -- A New Baseline, CVPR 2018  
 周报里有体现，[code](https://github.com/StevenLiuWen/ano_pred_cvpr2018)环境已经搭建完成  
-dataset: ShanghaiTech 'downloading'  
-weights: onedrive 'downloading'  
+dataset: ShanghaiTech `downloading`   
+weights: onedrive `downloading`    
 
 ### Graph Convolutional Label Noise Cleaner:Train a Plug-and-play Action Classifier for Anomaly Detection, CVPR 2019
 在UCF-Crime和ShanghaiTech上的TOP2 AUC  
