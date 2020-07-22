@@ -16,7 +16,7 @@ UCF-Crime数据集成为了Video-Anomaly任务的一个标志性数据集 `downl
 
 ### Future Frame Prediction for Anomaly Detection -- A New Baseline, CVPR 2018  
 周报里有体现，[code](https://github.com/StevenLiuWen/ano_pred_cvpr2018)环境已经搭建完成  
-dataset: ShanghaiTech `downloading`   https://arxiv.org/pdf/1612.01925.pdf
+dataset: ShanghaiTech `downloading`   
 weights: onedrive `downloading`    
 另一个pytorch实现的版本[code](https://github.com/feiyuhuahuo/Anomaly_Prediction)，有diff map图，可以通过diff map去定位与预测偏差值较大的区域，从而实现abnormal location。  Flownet2.0[paper](https://arxiv.org/pdf/1612.01925.pdf)视觉效果不错，Future里用的是flownet2sd和flownet-lite
 
